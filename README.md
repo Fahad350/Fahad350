@@ -68,11 +68,11 @@
   <img src="https://streak-stats.demolab.com?user=Fahad350&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3>LeetCode Stats</h3>
-<div align ="center">
+<h3>🔥 LeetCode Stats :</h3>
+
   ![](https://leetcard.jacoblin.cool/Fahad35?ext=heatmap)
 
-  </div>
+ 
   
 
 ###
