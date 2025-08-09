@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack developer from Pakistan<br><br>- 🔭 I’m working as Mern Stack Developer<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I have to explore leetcode problems<br><br><h3>Projects in Mern Stack</h3><br>- BookStore<br>- Blogify Web App<br>- Portfolio<br>- Gym Web Application<br>- Hospital Management System<br><br> <h3> Contact ): </h3><br>fahadhashmi350@gmail.com<br>+92 303 0220 875</p>
+<p align="left">I'm a passionate Full-Stack developer from Pakistan<br><br>- 🔭 I’m working as Mern Stack Developer<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I have to explore leetcode problems<br><br><h3>Projects in Mern Stack</h3><br>- BookStore<br>- Blogify Web App<br>- Portfolio<br>- Gym Web Application<br>- Hospital Management System<br><br> <h3> Contact ): </h3><br>- fahadhashmi350@gmail.com<br>- +92 303 0220 875</p>
 
 ###
 
@@ -67,5 +67,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Fahad350&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+![](https://leetcard.jacoblin.cool/Fahad35?site=cn)
 
 ###
