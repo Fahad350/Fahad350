@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 <span color = "skyblue">I'm Fahad Hashmi</span>span</h1>
 
 ###
 
