@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack developer from Pakistan<br><br>- 🔭 I’m working as Mern Stack Developer<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I have to explore leetcode problems<br><br><h1>Projects in Mern Stack</h1>h1<br><br>- BookStore<br>- Blogify Web App<br>- Portfolio<br>- Gym Web Application<br>- Hospital Management System<br><br>=> <h1> Contact ): </h1>h1<br><br>fahadhashmi350@gmail.com<br>+92 303 0220 875</p>
+<p align="left">I'm a passionate Full-Stack developer from Pakistan<br><br>- 🔭 I’m working as Mern Stack Developer<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I have to explore leetcode problems<br><br><h3>Projects in Mern Stack</h3><br><br>- BookStore<br>- Blogify Web App<br>- Portfolio<br>- Gym Web Application<br>- Hospital Management System<br><br>=> <h3> Contact ): </h3><br><br>fahadhashmi350@gmail.com<br>+92 303 0220 875</p>
 
 ###
 
