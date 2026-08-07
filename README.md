@@ -134,7 +134,7 @@
 </div>
 
 <div align="center"> 
-<h2🔥 LeetCode Stats :</h2>
+<h2 align="center">🔥 LeetCode Stats :</h2>
 
   ![](https://leetcard.jacoblin.cool/Fahad35?ext=heatmap)
 
