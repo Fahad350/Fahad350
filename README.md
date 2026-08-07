@@ -22,8 +22,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<h3 align="center">I'm a passionate Full-Stack developer from Pakistan</h3>
-<h4 align="center">| Full-Stack | MERN Stack | Ruby On Rails |</h4>
+<h2 align="center">I'm a passionate Full-Stack developer from Pakistan</h2>
+<h3 align="center">| Full-Stack | MERN Stack | Ruby On Rails |</h3>
 <br>
 <br>
 <p align="left"> MERN Stack Developer with over 6 months of hands-on experience in building responsive and efficient web applications. Skilled in MongoDB, Express.js, React, and Node.js, with a focus on clean code, RESTful API design, and user-centric interfaces. Passionate about continuous learning, problem-solving, and delivering high-quality digital solutions.<br><br>- 🔭 I’m working as Mern Stack Developer
@@ -152,7 +152,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h2 align="center">🔥   My Stats :</h2>
 
 
 <div align="center">
@@ -160,7 +160,7 @@
 </div>
 
 <div align="center"> 
-<h3>🔥 LeetCode Stats :</h3>
+<h2🔥 LeetCode Stats :</h2>
 
   ![](https://leetcard.jacoblin.cool/Fahad35?ext=heatmap)
 
