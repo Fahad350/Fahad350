@@ -87,6 +87,13 @@
      alt="express logo"
      style="filter: invert(1);" />
 <img width="12" />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
+  height="40"
+  alt="Express logo"
+  id="gh-dark-mode-only"
+/>
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
 <img width="12" />
@@ -117,6 +124,13 @@
      alt="github logo"
      style="filter: invert(1);" />
     <img width="12" />
+    <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  height="40"
+  alt="GitHub logo"
+  id="gh-dark-mode-only"
+/>
+     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     <img width="12" />
   </p>
