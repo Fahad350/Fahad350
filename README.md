@@ -38,10 +38,13 @@
   <br>
 <h3 align="center">Projects in Ruby On Rails </h3>
   <br>
-   <h4>- Library Management System</h4>
-  <h4>- Project Management System</h4>
-  
-  <h4>- User Authentication System</h4>
+   <h4>
+     <p>  
+     - Library Management System
+     - Project Management System
+     - User Authentication System
+   </p>
+   </h4>
   <br>
   <h3 aligh="center"> Contact ): </h3>- fahadhashmi350@gmail.com<br>- +92 303 0220 875</p>
 
