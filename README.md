@@ -23,10 +23,27 @@
 
 ###
 <h3 align="center">I'm a passionate Full-Stack developer from Pakistan</h3>
-<h4 align="center">|Full-Stack|MERN Stack|Ruby On Rails|</h4>
+<h4 align="center">| Full-Stack | MERN Stack | Ruby On Rails |</h4>
 <br>
 <br>
-<p align="left"> MERN Stack Developer with over 6 months of hands-on experience in building responsive and efficient web applications. Skilled in MongoDB, Express.js, React, and Node.js, with a focus on clean code, RESTful API design, and user-centric interfaces. Passionate about continuous learning, problem-solving, and delivering high-quality digital solutions.<br><br>- 🔭 I’m working as Mern Stack Developer<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I have to explore leetcode problems<br><br><h3 align="center">Projects in Mern Stack</h3><br>- Portfolio <span> <a href="https://fahadsportfolios.netlify.app/" target="_blank">Visit My Portfolio</a> </span><br>- BookStore<br>- Blogify Web App<br>- Gym Web Application<br>- Hospital Management System<br>- Restaurant Application <br>- Note Keeping App  <br>- AI Prompt Bookmark Hub <br>- Employee Attendance Management System <br> <h3 aligh="center"> Contact ): </h3>- fahadhashmi350@gmail.com<br>- +92 303 0220 875</p>
+<p align="left"> MERN Stack Developer with over 6 months of hands-on experience in building responsive and efficient web applications. Skilled in MongoDB, Express.js, React, and Node.js, with a focus on clean code, RESTful API design, and user-centric interfaces. Passionate about continuous learning, problem-solving, and delivering high-quality digital solutions.<br><br>- 🔭 I’m working as Mern Stack Developer
+  <br>
+  - 📚 I'm currently learning Next js
+  <br>
+  - ⚡ In my free time I have to explore leetcode problems
+  <br><br>
+  <h3 align="center">Projects in Mern Stack</h3>
+  <br>
+  <h1>- Portfolio</h1> <span> <a href="https://fahadsportfolios.netlify.app/" target="_blank">Visit My Portfolio</a> </span><br>- BookStore<br>- Blogify Web App<br>- Gym Web Application<br>- Hospital Management System<br>- Restaurant Application <br>- Note Keeping App  <br>- AI Prompt Bookmark Hub <br>- Employee Attendance Management System 
+  <br>
+<h3 align="center">Projects in Ruby On Rails </h3>
+  <br>
+   <h4>- Library Management System</h4>
+  <br><h4>- Project Management System</h4>
+  <br>
+  <h4>- User Authentication System</h4>
+  <br>
+  <h3 aligh="center"> Contact ): </h3>- fahadhashmi350@gmail.com<br>- +92 303 0220 875</p>
 
 ###
 
