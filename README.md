@@ -32,17 +32,17 @@
   <br>
   - ⚡ In my free time I have to explore leetcode problems
   <br><br>
-  <h3 align="center">Projects in Mern Stack</h3>
+  <h2 align="center">Projects in Mern Stack</h2>
   <br>
   - Portfolio<span> <a href="https://fahadsportfolios.netlify.app/" target="_blank">Visit My Portfolio</a> </span> <br>- BookStore<br>- Blogify Web App<br>- Gym Web Application<br>- Hospital Management System<br>- Restaurant Application <br>- Note Keeping App  <br>- AI Prompt Bookmark Hub <br>- Employee Attendance Management System 
   <br>
-<h3 align="center">Projects in Ruby On Rails </h3>
+<h2 align="center">Projects in Ruby On Rails </h2>
   <br>
    
     
   - Library Management System <br>
   - Project Management System<br>
-     - User Authentication System
+  - User Authentication System
    
    
   <br>
