@@ -34,13 +34,13 @@
   <br><br>
   <h3 align="center">Projects in Mern Stack</h3>
   <br>
-  <h1>- Portfolio</h1> <span> <a href="https://fahadsportfolios.netlify.app/" target="_blank">Visit My Portfolio</a> </span><br>- BookStore<br>- Blogify Web App<br>- Gym Web Application<br>- Hospital Management System<br>- Restaurant Application <br>- Note Keeping App  <br>- AI Prompt Bookmark Hub <br>- Employee Attendance Management System 
+  <h4>- Portfolio<span> <a href="https://fahadsportfolios.netlify.app/" target="_blank">Visit My Portfolio</a> </span></h4> <br>- BookStore<br>- Blogify Web App<br>- Gym Web Application<br>- Hospital Management System<br>- Restaurant Application <br>- Note Keeping App  <br>- AI Prompt Bookmark Hub <br>- Employee Attendance Management System 
   <br>
 <h3 align="center">Projects in Ruby On Rails </h3>
   <br>
    <h4>- Library Management System</h4>
-  <br><h4>- Project Management System</h4>
-  <br>
+  <h4>- Project Management System</h4>
+  
   <h4>- User Authentication System</h4>
   <br>
   <h3 aligh="center"> Contact ): </h3>- fahadhashmi350@gmail.com<br>- +92 303 0220 875</p>
