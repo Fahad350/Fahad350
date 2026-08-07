@@ -82,7 +82,10 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+     height="40"
+     alt="express logo"
+     style="filter: invert(1);" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
@@ -109,7 +112,10 @@
 <div>
   <h3>Tools & Technologies</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     height="40"
+     alt="github logo"
+     style="filter: invert(1);" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     <img width="12" />
