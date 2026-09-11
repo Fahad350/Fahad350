@@ -1,146 +1,289 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# 👋 Hey, I'm Fahad Hashmi
+
+### Full-Stack Software Engineer | Ruby on Rails | MERN Stack
+
+Building scalable web applications, REST APIs, and real-world SaaS solutions with **Ruby on Rails, React, Node.js, and PostgreSQL**.
+
+<p>
+  <a href="https://www.linkedin.com/in/fahad-hashmi-959248248">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fahadhashmi350@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://fahadsportfolios.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fahad350">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Fahad350&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Software Engineer** focused on building production-ready web applications and backend systems.
+
+My main experience is across **Ruby on Rails and the MERN stack**, with a strong interest in backend architecture, APIs, databases, authentication, background jobs, and scalable application design.
+
+* 💻 Full-Stack Developer
+* 🚀 Ruby on Rails + MERN Stack
+* 🔧 Building RESTful APIs and modern web applications
+* 🗄️ PostgreSQL, MongoDB & MySQL
+* 🔐 Authentication, authorization & API security
+* ⚙️ Background jobs & asynchronous processing
+* ☁️ AWS / S3 integrations
+* 🧪 Learning testing and production engineering practices
+* 📚 Currently improving my **Next.js, Rails architecture & system design**
+* 🧩 Practicing problem solving with **LeetCode**
+* 🌱 Always learning and improving
+
+---
+
+## 🏗️ What I Work With
+
+```text
+Frontend        → React.js, Next.js, JavaScript, HTML5, CSS3
+Backend         → Ruby on Rails, Node.js, Express.js
+Databases       → PostgreSQL, MongoDB, MySQL
+API             → REST APIs, JWT, Devise, API Integrations
+Styling         → Bootstrap, Tailwind CSS, SCSS
+DevOps / Tools  → Git, GitHub, Postman, Docker, AWS S3
+Background Jobs → Sidekiq, Redis
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+### Tools & Infrastructure
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏠 Flip App
+
+**Real Estate / Property Management Platform**
+
+A production-oriented application involving property data, projects, documents, photos, MLS/RESO data and external integrations.
+
+**Tech:** Ruby on Rails · React · PostgreSQL · AWS S3 · Sidekiq · Redis · REST APIs
+
+**Key Areas:**
+
+* Property & project management
+* Document and folder management
+* Photo management
+* REST API architecture
+* JWT authentication
+* AWS S3 file storage
+* Background processing with Sidekiq
+* MLS / RESO data integrations
+* External data imports
+
+---
+
+## 📋 TaskFlow
+
+**Project & Task Management SaaS**
+
+A Rails-based project management application with teams, projects, tasks, invitations, roles and background jobs.
+
+**Tech:** Ruby on Rails · PostgreSQL · Bootstrap · SCSS · Devise · Sidekiq · Redis
+
+**Features:**
+
+* Authentication & authorization
+* Team management
+* Role-based permissions
+* Projects & tasks
+* Kanban workflow
+* Invitations
+* Email notifications
+* Background jobs
+* Scheduled reminders
+
+---
+
+## 🛒 MERN Projects
+
+Some of my previous full-stack projects:
+
+* 📚 BookStore Application
+* 📝 Blogify Web App
+* 🏋️ Gym Management System
+* 🏥 Hospital Management System
+* 🍽️ Restaurant Application
+* 🗒️ Note Keeping Application
+* 🤖 AI Prompt Bookmark Hub
+* 👨‍💼 Employee Attendance System
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Ruby on Rails Advanced Architecture
+        ↓
+REST API Design
+        ↓
+React + Next.js
+        ↓
+Testing & TDD
+        ↓
+System Design
+        ↓
+Performance & Scalability
+```
+
+I'm particularly interested in becoming stronger at **backend architecture, testing, system design, database optimization and production engineering**.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fahad-hashmi-959248248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:fahadhashmi350@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fahad350&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad350&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋 <span color = "skyblue">I'm Fahad Hashmi</span></h1>
-
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-<h2 align="center">I'm a passionate Full-Stack developer from Pakistan</h2>
-<h3 align="center">| Full-Stack | MERN Stack | Ruby On Rails |</h3>
-<br>
-<br>
-<p align="left"> MERN Stack Developer with over 6 months of hands-on experience in building responsive and efficient web applications. Skilled in MongoDB, Express.js, React, and Node.js, with a focus on clean code, RESTful API design, and user-centric interfaces. Passionate about continuous learning, problem-solving, and delivering high-quality digital solutions.<br><br>- 🔭 I’m working as Mern Stack Developer
-  <br>
-  - 📚 I'm currently learning Next js
-  <br>
-  - ⚡ In my free time I have to explore leetcode problems
-  <br><br>
-  <h2 align="center">Projects in Mern Stack</h2>
-  <br>
-  - Portfolio<span> <a href="https://fahadsportfolios.netlify.app/" target="_blank">Visit My Portfolio</a> </span> <br>- BookStore<br>- Blogify Web App<br>- Gym Web Application<br>- Hospital Management System<br>- Restaurant Application <br>- Note Keeping App  <br>- AI Prompt Bookmark Hub <br>- Employee Attendance Management System 
-  <br>
-<h2 align="center">Projects in Ruby On Rails </h2>
-  <br>
-   
-    
-  - Library Management System <br>
-  - Project Management System<br>
-  - User Authentication System
-   
-   
-  <br>
-  <h3 aligh="center"> Contact ): </h3>- fahadhashmi350@gmail.com<br>- +92 303 0220 875</p>
-
-###
-
-<h2 align="center">🛠 Language and tools </h2>
-
-###
-<div>
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-    <img width="12" />
-    
-  </p>
-</div>
-
->
-  <h3>Backend</h3>
-  <p>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-     height="40"
-     alt="express logo"
-     style="filter: invert(1);" />
-<img width="12" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="40" alt="ruby on rails logo" />
-<img width="12" />
-  </p>
-</div>
-
->
-  <h3>Database</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-    <img width="12" />
-    
-  </p>
-</div>
-
-<div>
-  <h3>Tools & Technologies</h3>
-  <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-     height="40"
-     alt="github logo"
-     style="filter: invert(1);" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-    <img width="12" />
-  </p>
-</div>
-
-
-###
-
-<h2 align="center">🔥   My Stats :</h2>
-
+# 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Fahad350&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak/activity graph"  />
+
+<img src="https://streak-stats.demolab.com?user=Fahad350&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<div align="center"> 
-<h2 align="center">🔥 LeetCode Stats :</h2>
+---
 
-  ![](https://leetcard.jacoblin.cool/Fahad35?ext=heatmap)
+# 💻 LeetCode
 
-  </div>
+<div align="center">
 
- 
-  
+<img src="https://leetcard.jacoblin.cool/Fahad35?theme=dark&font=baloo&ext=heatmap" />
 
-###
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fahad350/Fahad350/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahad350&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Build production-ready full-stack applications
+* [x] Work with Ruby on Rails
+* [x] Build REST APIs
+* [x] Work with PostgreSQL
+* [x] Work with React
+* [ ] Master advanced Rails architecture
+* [ ] Improve automated testing
+* [ ] Deepen system design knowledge
+* [ ] Contribute to open-source projects
+* [ ] Build and deploy scalable applications
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+**Web Development · Ruby on Rails · React · MERN · APIs · System Design · Open Source**
+
+<div align="center">
+
+### 📫 Reach me
+
+<a href="mailto:fahadhashmi350@gmail.com">
+<img src="https://img.shields.io/badge/Email-fahadhashmi350%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fahad-hashmi-959248248">
+<img src="https://img.shields.io/badge/LinkedIn-Fahad%20Hashmi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fahadsportfolios.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep building. Keep learning. Keep shipping. 🚀**
+
+</div>
