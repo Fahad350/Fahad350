@@ -1,289 +1,88 @@
 <div align="center">
 
-# 👋 Hey, I'm Fahad Hashmi
+# Fahad Hashmi
 
-### Full-Stack Software Engineer | Ruby on Rails | MERN Stack
+**Software Engineer · Ruby on Rails · Shopify**
 
-Building scalable web applications, REST APIs, and real-world SaaS solutions with **Ruby on Rails, React, Node.js, and PostgreSQL**.
+Rails services that keep commerce data accurate between Shopify and internal systems.
+
+[LinkedIn](https://www.linkedin.com/in/fahad-hashmi-959248248) · [Email](mailto:fahadhashmi350@gmail.com) · [Portfolio](https://fahadsportfolios.netlify.app/) · [GitHub](https://github.com/Fahad350)
+
+</div>
+
+---
+
+Software engineer in Lahore. I build Ruby on Rails backends: REST APIs, PostgreSQL, background jobs, and third-party integrations. I am currently building a Shopify inventory sync app. Previous product work includes a property-operations platform and a team workflow app, with React on the client where the product needs one.
+
+B.S. Computer Science, Virtual University of Pakistan.
+
+## Shopify Inventory Sync
+
+In progress. A Rails application that keeps product quantities consistent between a Shopify store and an internal inventory record.
+
+- Map Shopify products and variants onto local inventory records
+- Read and write stock through the Shopify Admin API
+- Take inventory webhooks and process them in Sidekiq, off the request cycle
+- Store sync state in PostgreSQL so a failed update can be retried from a known point
+
+**Ruby on Rails · PostgreSQL · Sidekiq · Redis · Shopify Admin API**
+
+## Selected work
+
+### Flip
+
+Property operations platform. Rails API and React client for properties, projects, documents, and photos, including MLS/RESO imports. File storage is on AWS S3. Imports and uploads run in Sidekiq. API access is JWT-based.
+
+**Ruby on Rails · React · PostgreSQL · AWS S3 · Sidekiq · Redis**
+
+### TaskFlow
+
+Project and task application for teams. Projects, a kanban board, invitations, and role-based access with Devise. Reminder and notification mail is sent by scheduled Sidekiq jobs.
+
+**Ruby on Rails · PostgreSQL · Devise · Sidekiq · Redis · Bootstrap**
+
+<details>
+<summary>Earlier MERN applications</summary>
+
+<br>
+
+Bookstore, blog, gym, hospital, restaurant, notes, and employee attendance apps on React, Node.js, and MongoDB. Live demos and source are on my [portfolio](https://fahadsportfolios.netlify.app/).
+
+</details>
+
+## Stack
+
+| | |
+| --- | --- |
+| Backend | Ruby on Rails, Node.js, Express |
+| Frontend | React, Next.js, JavaScript |
+| Data | PostgreSQL, Redis, MongoDB, MySQL |
+| Integrations | Shopify Admin API, REST, JWT, Devise, AWS S3 |
+| Tools | Git, Docker, Sidekiq, Postman |
 
 <p>
-  <a href="https://www.linkedin.com/in/fahad-hashmi-959248248">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fahadhashmi350@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://fahadsportfolios.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Fahad350">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="36" alt="Ruby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="36" alt="Rails" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Fahad350&label=Profile%20Views&color=0e75b6&style=flat" />
+## Focus
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Software Engineer** focused on building production-ready web applications and backend systems.
-
-My main experience is across **Ruby on Rails and the MERN stack**, with a strong interest in backend architecture, APIs, databases, authentication, background jobs, and scalable application design.
-
-* 💻 Full-Stack Developer
-* 🚀 Ruby on Rails + MERN Stack
-* 🔧 Building RESTful APIs and modern web applications
-* 🗄️ PostgreSQL, MongoDB & MySQL
-* 🔐 Authentication, authorization & API security
-* ⚙️ Background jobs & asynchronous processing
-* ☁️ AWS / S3 integrations
-* 🧪 Learning testing and production engineering practices
-* 📚 Currently improving my **Next.js, Rails architecture & system design**
-* 🧩 Practicing problem solving with **LeetCode**
-* 🌱 Always learning and improving
-
----
-
-## 🏗️ What I Work With
-
-```text
-Frontend        → React.js, Next.js, JavaScript, HTML5, CSS3
-Backend         → Ruby on Rails, Node.js, Express.js
-Databases       → PostgreSQL, MongoDB, MySQL
-API             → REST APIs, JWT, Devise, API Integrations
-Styling         → Bootstrap, Tailwind CSS, SCSS
-DevOps / Tools  → Git, GitHub, Postman, Docker, AWS S3
-Background Jobs → Sidekiq, Redis
-```
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏠 Flip App
-
-**Real Estate / Property Management Platform**
-
-A production-oriented application involving property data, projects, documents, photos, MLS/RESO data and external integrations.
-
-**Tech:** Ruby on Rails · React · PostgreSQL · AWS S3 · Sidekiq · Redis · REST APIs
-
-**Key Areas:**
-
-* Property & project management
-* Document and folder management
-* Photo management
-* REST API architecture
-* JWT authentication
-* AWS S3 file storage
-* Background processing with Sidekiq
-* MLS / RESO data integrations
-* External data imports
-
----
-
-## 📋 TaskFlow
-
-**Project & Task Management SaaS**
-
-A Rails-based project management application with teams, projects, tasks, invitations, roles and background jobs.
-
-**Tech:** Ruby on Rails · PostgreSQL · Bootstrap · SCSS · Devise · Sidekiq · Redis
-
-**Features:**
-
-* Authentication & authorization
-* Team management
-* Role-based permissions
-* Projects & tasks
-* Kanban workflow
-* Invitations
-* Email notifications
-* Background jobs
-* Scheduled reminders
-
----
-
-## 🛒 MERN Projects
-
-Some of my previous full-stack projects:
-
-* 📚 BookStore Application
-* 📝 Blogify Web App
-* 🏋️ Gym Management System
-* 🏥 Hospital Management System
-* 🍽️ Restaurant Application
-* 🗒️ Note Keeping Application
-* 🤖 AI Prompt Bookmark Hub
-* 👨‍💼 Employee Attendance System
-
----
-
-# 🧠 Currently Learning
-
-```text
-Ruby on Rails Advanced Architecture
-        ↓
-REST API Design
-        ↓
-React + Next.js
-        ↓
-Testing & TDD
-        ↓
-System Design
-        ↓
-Performance & Scalability
-```
-
-I'm particularly interested in becoming stronger at **backend architecture, testing, system design, database optimization and production engineering**.
-
----
-
-# 📊 GitHub Statistics
+Correct quantities in the Shopify sync, safe retries when a job fails, and test coverage on the inventory update path.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fahad350&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad350&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fahad350&theme=tokyonight&hide_border=true" />
+<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fahad350&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default" />
+<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad350&layout=compact&hide_border=true&langs_count=6&theme=default" />
 
 </div>
 
 ---
 
-# 💻 LeetCode
+**Rails · Shopify · APIs · PostgreSQL**
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Fahad35?theme=dark&font=baloo&ext=heatmap" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Fahad350/Fahad350/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahad350&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-* [x] Build production-ready full-stack applications
-* [x] Work with Ruby on Rails
-* [x] Build REST APIs
-* [x] Work with PostgreSQL
-* [x] Work with React
-* [ ] Master advanced Rails architecture
-* [ ] Improve automated testing
-* [ ] Deepen system design knowledge
-* [ ] Contribute to open-source projects
-* [ ] Build and deploy scalable applications
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-**Web Development · Ruby on Rails · React · MERN · APIs · System Design · Open Source**
-
-<div align="center">
-
-### 📫 Reach me
-
-<a href="mailto:fahadhashmi350@gmail.com">
-<img src="https://img.shields.io/badge/Email-fahadhashmi350%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fahad-hashmi-959248248">
-<img src="https://img.shields.io/badge/LinkedIn-Fahad%20Hashmi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://fahadsportfolios.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep building. Keep learning. Keep shipping. 🚀**
-
-</div>
+[fahadhashmi350@gmail.com](mailto:fahadhashmi350@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fahad-hashmi-959248248) · [Portfolio](https://fahadsportfolios.netlify.app/)
