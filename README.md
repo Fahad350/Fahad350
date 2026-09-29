@@ -1,4 +1,4 @@
-dont change anything preserve the style and add timbits project (timbits, flip app are live projects)
+
 <div align="center">
 
 # 👋 Hey, I'm Fahad Hashmi
@@ -111,7 +111,7 @@ Background Jobs → Sidekiq, Redis
 
 ## 🛒 Shopify Inventory Sync
 
-**Commerce / Inventory Integration · Ruby on Rails**
+**E-Commerce / Inventory Integration · Ruby on Rails**
 
 A Rails application that keeps product stock aligned between a Shopify store and an internal inventory record.
 
@@ -130,7 +130,7 @@ A Rails application that keeps product stock aligned between a Shopify store and
 
 ## 🏠 Flip App
 
-**Real Estate / Property Management Platform · Ruby on Rails**
+**Real Estate / Property Management Platform · Ruby on Rails · 🟢 Live Project**
 
 A production-oriented application for property data, projects, documents, photos, MLS/RESO data, and external integrations.
 
@@ -147,6 +147,30 @@ A production-oriented application for property data, projects, documents, photos
 * Background processing with Sidekiq
 * MLS / RESO data integrations
 * External data imports
+
+---
+
+🏒 Timbits
+
+Youth Sports Equipment Ordering Platform · Ruby on Rails · 🟢 Live Project
+
+A production application for managing youth sports equipment ordering and club operations across Hockey and Soccer.
+
+Tech: Ruby on Rails · PostgreSQL · Bootstrap · SCSS · Devise · Sidekiq · Redis · AWS S3
+
+Key Areas:
+
+Hockey & Soccer equipment ordering
+Club and customer management
+Vendor management
+RMM operations
+Super Admin dashboard
+Role-based access control
+Order management
+Product and team workflows
+Background processing with Sidekiq
+AWS S3 integrations
+PDF generation and document workflows
 
 ---
 
